@@ -1,5 +1,7 @@
 # SoftwareDevelopmentManager
 
+The book Transitioning Into A Software Development Manager is avaialble at https://www.amazon.com/Transitioning-Into-Software-Development-Manager/dp/B0BQY1RNNW
+
 These are sample template you can use to begin your career:
 
 1. Manage the performance improvement plan of an employee: ManaagersAid-Template.xlsx
